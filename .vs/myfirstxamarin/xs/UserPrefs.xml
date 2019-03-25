@@ -1,30 +1,31 @@
-﻿<Properties StartupConfiguration="{30849F4E-AE68-4D12-BCB5-ACD0817BD6FB}|Default">
-  <MonoDevelop.Ide.ItemProperties.myfirstxamarin.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="myfirstxamarin/Model/User.cs">
+﻿<Properties StartupConfiguration="{375F747B-364F-4DD2-9012-75782180BDA6}|Default">
+  <MonoDevelop.Ide.ItemProperties.myfirstxamarin.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FC6A41C2-CDB5-43B3-BCC9-0935D594D1EB" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="myfirstxamarin/UI/Login/MainPage.xaml.cs">
     <Files>
-      <File FileName="myfirstxamarin/MainPage.xaml.cs" Line="18" Column="1" />
-      <File FileName="myfirstxamarin/MainPage.xaml" Line="6" Column="89" />
-      <File FileName="myfirstxamarin/Model/User.cs" Line="7" Column="9" />
+      <File FileName="myfirstxamarin/UI/Login/MainPage.xaml.cs" Line="28" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="myfirstxamarin" expanded="True">
             <Node name="myfirstxamarin" expanded="True">
-              <Node name="Model" expanded="True">
-                <Node name="User.cs" selected="True" />
+              <Node name="UI" expanded="True">
+                <Node name="Dashboard" expanded="True" />
+                <Node name="Login" expanded="True">
+                  <Node name="MainPage.xaml" expanded="True">
+                    <Node name="MainPage.xaml.cs" selected="True" />
+                  </Node>
+                </Node>
               </Node>
-              <Node name="UI" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
             </Node>
+            <Node name="myfirstxamarin.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.myfirstxamarin FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.myfirstxamarin.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.myfirstxamarin.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

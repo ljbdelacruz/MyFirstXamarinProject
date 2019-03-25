@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:myfirstxamarin" x:Class="myfirstxamarin.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <StackLayout Margin="0,10" Padding="0, 100">
+            <Entry x:Name="Entry_Username" Placeholder="Username" Margin="10,10"></Entry>
+            <Entry x:Name="Entry_Password" IsPassword="true" Margin="10" Placeholder="Password"></Entry>
+            <Button Text="LOGIN" Clicked="OnLoginClicked" BackgroundColor="Fuchsia" TextColor="White" Margin="10"></Button>    
+        </StackLayout>
+
+    </StackLayout>
+</ContentPage>
