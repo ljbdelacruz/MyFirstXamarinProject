@@ -5,6 +5,7 @@
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/mscorlib.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.Core.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.dll
+/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.Net.Http.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.Xml.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.Xml.Linq.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Core.Common.dll
@@ -37,7 +38,6 @@
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.IO.Compression.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
-/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.Net.Http.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.Web.Services.dll

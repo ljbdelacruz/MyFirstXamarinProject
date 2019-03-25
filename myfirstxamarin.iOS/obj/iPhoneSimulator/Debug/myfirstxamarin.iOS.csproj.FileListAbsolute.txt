@@ -56,3 +56,4 @@
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.iOS/obj/iPhoneSimulator/Debug/myfirstxamarin.iOS.csproj.CopyComplete
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.iOS/obj/iPhoneSimulator/Debug/myfirstxamarin.iOS.exe
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.iOS/obj/iPhoneSimulator/Debug/myfirstxamarin.iOS.pdb
+/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.dll

@@ -27,11 +27,14 @@
     <Compile Include="$(MSBuildThisFileDirectory)UI\Dashboard\Dashboard.xaml.cs">
       <DependentUpon>Dashboard.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Service\Rest\RestService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Model\" />
     <Folder Include="$(MSBuildThisFileDirectory)UI\" />
     <Folder Include="$(MSBuildThisFileDirectory)UI\Login\" />
     <Folder Include="$(MSBuildThisFileDirectory)UI\Dashboard\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Service\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Service\Rest\" />
   </ItemGroup>
 </Project>
