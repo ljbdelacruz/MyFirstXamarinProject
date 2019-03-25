@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{30849F4E-AE68-4D12-BCB5-ACD0817BD6FB}|Default">
+  <MonoDevelop.Ide.ItemProperties.myfirstxamarin.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="myfirstxamarin/Model/User.cs">
+    <Files>
+      <File FileName="myfirstxamarin/MainPage.xaml.cs" Line="18" Column="1" />
+      <File FileName="myfirstxamarin/MainPage.xaml" Line="6" Column="89" />
+      <File FileName="myfirstxamarin/Model/User.cs" Line="7" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="myfirstxamarin" expanded="True">
+            <Node name="myfirstxamarin" expanded="True">
+              <Node name="Model" expanded="True">
+                <Node name="User.cs" selected="True" />
+              </Node>
+              <Node name="UI" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.myfirstxamarin FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.myfirstxamarin.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
