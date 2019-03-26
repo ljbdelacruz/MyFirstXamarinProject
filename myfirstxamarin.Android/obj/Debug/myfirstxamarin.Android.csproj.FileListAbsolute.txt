@@ -36,12 +36,14 @@
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/uploadflags.txt
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/FormsViewGroup.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/Mono.Android.pdb
+/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/Newtonsoft.Json.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/linksrc/myfirstxamarin.Android.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/linksrc/FormsViewGroup.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/linksrc/Newtonsoft.Json.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb

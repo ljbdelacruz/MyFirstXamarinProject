@@ -28,6 +28,8 @@
       <DependentUpon>Dashboard.xaml</DependentUpon>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Service\Rest\RestService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Config\Constant.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\AuthResponseToken.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Model\" />
@@ -36,5 +38,6 @@
     <Folder Include="$(MSBuildThisFileDirectory)UI\Dashboard\" />
     <Folder Include="$(MSBuildThisFileDirectory)Service\" />
     <Folder Include="$(MSBuildThisFileDirectory)Service\Rest\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Config\" />
   </ItemGroup>
 </Project>

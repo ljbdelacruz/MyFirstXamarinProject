@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Net.Http;
+using System.Collections.Generic;
+
 namespace myfirstxamarin.Model
 {
     public class User
@@ -19,5 +22,12 @@ namespace myfirstxamarin.Model
             }
             return false;
         }
+        public List<KeyValuePair<string, string>> toParam() {
+            var param = new List<KeyValuePair<string, string>>();
+            param.Add(new KeyValuePair<string, string>("username", this.Username));
+            param.Add(new KeyValuePair<string, string>("password", this.Password));
+            return param;
+        }
+
     }
 }

@@ -108,6 +108,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "myfirstxamarin.Android.dll" comes first in this list. */
 		"myfirstxamarin.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Runtime.dll",

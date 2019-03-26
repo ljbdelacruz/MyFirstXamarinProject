@@ -3,6 +3,7 @@
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/Java.Interop.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/Mono.Android.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/Newtonsoft.Json.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.Core.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.Net.Http.dll
