@@ -2,9 +2,10 @@
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/myfirstxamarin.Android.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/com.companyname.myfirstxamarin.apk
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/com.companyname.myfirstxamarin-Signed.apk
+/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/Xamarin.iOS.dll
+/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/Xamarin.iOS.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/myfirstxamarin.Android.nuget.stamp
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
-/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/myfirstxamarin.Android.csprojAssemblyReference.cache
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/libraryimports.cache.stamp
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/res.flag
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/App.xaml.g.cs
@@ -12,6 +13,7 @@
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/UI/Dashboard/Dashboard.xaml.g.cs
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/myfirstxamarin.Android.csproj.CoreCompileInputs.cache
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/XamlC.stamp
+/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/myfirstxamarin.Android.csproj.CopyComplete
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/myfirstxamarin.Android.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/myfirstxamarin.Android.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/bin/com.companyname.myfirstxamarin.apk
@@ -34,6 +36,7 @@
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/R.cs.flag
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/R.txt
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/uploadflags.txt
+/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/myfirstxamarin.Android.csprojAssemblyReference.cache
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/FormsViewGroup.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/Mono.Android.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/bin/Debug/Newtonsoft.Json.pdb
@@ -47,3 +50,4 @@
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.pdb
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb
+/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/linksrc/Xamarin.iOS.pdb

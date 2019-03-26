@@ -1,21 +1,24 @@
 ﻿using System;
 using System.Net.Http;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 using myfirstxamarin.Model;
 using myfirstxamarin.Config;
 using Newtonsoft.Json;
+using Xamarin.Forms;
+using Xamarin.Forms.PlatformConfiguration;
 
 namespace myfirstxamarin.Service.Rest
 {
     public class RestService
     {
-        HttpClient client;
+        public HttpClient client;
+        public DeviceSettings dSettings;
         public RestService()
         {
             client = new HttpClient();
             client.MaxResponseContentBufferSize = 256000;
             client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application\\x-www-form-urlencoded"));
+            dSettings = new DeviceSettings();
         }
         public async Task<string> PostRequest(FormUrlEncodedContent content, string url) {
             var response = await client.PostAsync(url, content);
@@ -36,6 +39,7 @@ namespace myfirstxamarin.Service.Rest
         public async Task<AuthResponseToken> Authenticate(User param) {
             var uri = Constant.baseURL + "";
             var content = new FormUrlEncodedContent(param.toParam());
+            content.Headers.Add("uuid", Constant.deviceID);
             var response = this.PostRequest(content, uri);
             //convert the string json to 
             return JsonConvert.DeserializeObject<AuthResponseToken>(response.Result);

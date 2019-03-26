@@ -7,5 +7,6 @@ namespace myfirstxamarin.Config
         public static String jwot_username = "";
         public static String jwot_password = "";
 
+        public static string deviceID = "";
     }
 }

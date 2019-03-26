@@ -30,6 +30,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Service\Rest\RestService.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Config\Constant.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Model\AuthResponseToken.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Config\DeviceSettings.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Model\" />

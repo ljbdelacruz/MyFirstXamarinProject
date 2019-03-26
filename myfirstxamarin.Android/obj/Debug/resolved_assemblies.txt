@@ -32,6 +32,7 @@
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
+/Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/Xamarin.iOS.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/netstandard.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.Data.dll
 /Users/laineljohndelacruz/Desktop/GithubRepo/personal/Xamarin/myfirstxamarin/myfirstxamarin.Android/obj/Debug/android/assets/System.Numerics.dll

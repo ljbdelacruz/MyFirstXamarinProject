@@ -3,6 +3,19 @@
     <ContentPage.Content>
         <StackLayout Padding="10, 50">
             <Label>Dashboard</Label>            
+            <Frame BackgroundColor="Blue" HeightRequest="100"></Frame>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="170" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="170" />
+                </Grid.RowDefinitions>
+                <Frame Grid.Column="0" BackgroundColor="Blue" HeightRequest="100"></Frame>
+                <Frame Grid.Column="1" BackgroundColor="Blue" HeightRequest="100"></Frame>
+            </Grid>
+            
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
