@@ -40,5 +40,6 @@
     <Folder Include="$(MSBuildThisFileDirectory)Service\" />
     <Folder Include="$(MSBuildThisFileDirectory)Service\Rest\" />
     <Folder Include="$(MSBuildThisFileDirectory)Config\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Config\Data\" />
   </ItemGroup>
 </Project>

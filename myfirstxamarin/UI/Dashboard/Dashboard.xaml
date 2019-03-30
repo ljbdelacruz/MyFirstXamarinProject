@@ -15,7 +15,6 @@
                 <Frame Grid.Column="1" BackgroundColor="Blue" HeightRequest="100"></Frame>
             </Grid>
             
-            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

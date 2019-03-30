@@ -1,36 +1,27 @@
 ﻿<Properties StartupConfiguration="{375F747B-364F-4DD2-9012-75782180BDA6}|Default">
   <MonoDevelop.Ide.ItemProperties.myfirstxamarin.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FC6A41C2-CDB5-43B3-BCC9-0935D594D1EB" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="myfirstxamarin/Config/DeviceSettings.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myfirstxamarin/UI/Dashboard/Dashboard.xaml">
     <Files>
       <File FileName="myfirstxamarin/UI/Login/MainPage.xaml.cs" Line="22" Column="35" />
-      <File FileName="myfirstxamarin/UI/Dashboard/Dashboard.xaml" Line="9" Column="1" />
+      <File FileName="myfirstxamarin/UI/Dashboard/Dashboard.xaml" Line="18" Column="23" />
       <File FileName="myfirstxamarin/Service/Rest/RestService.cs" Line="27" Column="10" />
       <File FileName="myfirstxamarin/Config/Constant.cs" Line="10" Column="25" />
-      <File FileName="myfirstxamarin/Config/DeviceSettings.cs" Line="21" Column="50" />
+      <File FileName="myfirstxamarin/Config/DeviceSettings.cs" Line="23" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="myfirstxamarin" expanded="True">
             <Node name="myfirstxamarin" expanded="True">
-              <Node name="Config" expanded="True">
-                <Node name="DeviceSettings.cs" selected="True" />
-              </Node>
-              <Node name="Model" expanded="True" />
-              <Node name="Service" expanded="True">
-                <Node name="Rest" expanded="True" />
-              </Node>
+              <Node name="Config" expanded="True" />
               <Node name="UI" expanded="True">
-                <Node name="Dashboard" expanded="True" />
-                <Node name="Login" expanded="True">
-                  <Node name="MainPage.xaml" expanded="True" />
+                <Node name="Dashboard" expanded="True">
+                  <Node name="Dashboard.xaml" selected="True" />
                 </Node>
               </Node>
             </Node>
             <Node name="myfirstxamarin.Android" expanded="True" />
-            <Node name="myfirstxamarin.iOS" expanded="True">
-              <Node name="Packages" expanded="True" />
-            </Node>
+            <Node name="myfirstxamarin.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
